@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Portfolio.png" 
+  <img src="Ahmer - Copy.png" 
        alt="Muhammad Sami Ullah" 
        width="300" 
        height="300" 
